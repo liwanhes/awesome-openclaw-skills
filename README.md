@@ -177,7 +177,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 | | | |
 |---|---|---|
 | [Git & GitHub](#git--github) (167) | [Marketing & Sales](#marketing--sales) (103) | [Communication](#communication) (146) |
-| [Coding Agents & IDEs](#coding-agents--ides) (1184) | [Productivity & Tasks](#productivity--tasks) (205) | [Speech & Transcription](#speech--transcription) (46) |
+| [Coding Agents & IDEs](#coding-agents--ides) (1184) | [Productivity & Tasks](#productivity--tasks) (206) | [Speech & Transcription](#speech--transcription) (46) |
 | [Browser & Automation](#browser--automation) (323) | [AI & LLMs](#ai--llms) (176) | [Smart Home & IoT](#smart-home--iot) (41) |
 | [Web & Frontend Development](#web--frontend-development) (919) | [Data & Analytics](#data--analytics) (28) | [Shopping & E-commerce](#shopping--e-commerce) (51) |
 | [DevOps & Cloud](#devops--cloud) (393) | [Calendar & Scheduling](#calendar--scheduling) (66) | |
@@ -600,7 +600,7 @@ If you believe a skill in this list should be flagged or has a security concern,
 - [atlassian-mcp](https://clawskills.sh/skills/atakanermis-atlassian-mcp) - Run the Model Context Protocol (MCP) Atlassian server.
 - [boss-ai-agent](https://github.com/openclaw/skills/tree/main/skills/tonypk/boss-ai-agent/SKILL.md) - AI management middleware with 14 mentors and 9 culture packs.
 
-> **[View all 205 skills in Productivity & Tasks →](categories/productivity-and-tasks.md)**
+> **[View all 206 skills in Productivity & Tasks →](categories/productivity-and-tasks.md)**
 
 </details>
 
